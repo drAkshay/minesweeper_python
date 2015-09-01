@@ -4,6 +4,9 @@
 # 
 # Created by: Dr.Akshay P
 # Last modified: 08/31/15
+# Copyright (c) 2015 Dr. Akshay P. All rights reserved.
+# Please contact me at github for questions
+#
 
 import numpy
 import random
